@@ -22,7 +22,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -42,12 +42,13 @@
      id="namedview16"
      showgrid="false"
      inkscape:zoom="1.3894737"
-     inkscape:cx="1.7045455"
-     inkscape:cy="5.9966856"
+     inkscape:cx="-6.2121211"
+     inkscape:cy="175.12547"
      inkscape:window-x="0"
      inkscape:window-y="23"
      inkscape:window-maximized="0"
-     inkscape:current-layer="svg14" />
+     inkscape:current-layer="svg14"
+     inkscape:document-rotation="0" />
   <rect
      x="0"
      y="0"
@@ -69,5 +70,5 @@
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial, sans-serif;-inkscape-font-specification:'Arial, sans-serif'"
        id="tspan22"><tspan
    style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Arial, sans-serif;-inkscape-font-specification:'Arial, sans-serif Bold'"
-   id="tspan32">AgID</tspan> Linee Guida</tspan></text>
+   id="tspan32">AgID</tspan> - Linee Guida</tspan></text>
 </svg>

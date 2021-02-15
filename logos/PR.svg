@@ -37,25 +37,26 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="733"
-     inkscape:window-height="480"
+     inkscape:window-width="1280"
+     inkscape:window-height="715"
      id="namedview16"
      showgrid="false"
      inkscape:zoom="1.3894737"
-     inkscape:cx="-37.878788"
-     inkscape:cy="307.31061"
+     inkscape:cx="-94.734848"
+     inkscape:cy="272.83919"
      inkscape:window-x="0"
      inkscape:window-y="23"
-     inkscape:window-maximized="0"
+     inkscape:window-maximized="1"
      inkscape:current-layer="svg14"
      inkscape:document-rotation="0" />
   <rect
      x="0"
      y="0"
-     fill="rgb(0,51,153)"
+     fill="#003399"
      width="25"
      height="380"
-     id="rect10" />
+     id="rect10"
+     style="fill:#e99c32;fill-opacity:1" />
   <text
      x="160"
      y="190"
@@ -67,5 +68,6 @@
      font-size="18px"
      id="text12"><tspan
    style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Arial, sans-serif;-inkscape-font-specification:'Arial, sans-serif Bold'"
-   id="tspan50">AgID</tspan> Bozza finale per consultazione</text>
+   id="tspan50"
+   dy="0">AgID</tspan> - Bozza finale per consultazione</text>
 </svg>
